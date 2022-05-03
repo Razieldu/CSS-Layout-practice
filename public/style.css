@@ -1,0 +1,194 @@
+.wrap{
+  width:960px;
+  display: flex;
+  text-align: center;
+  margin: auto;
+}
+
+
+
+.top-bar{
+background-color: black;
+padding:10px 30px 10px 10px;
+}
+
+.top-bar img{
+
+float: left;
+}
+
+
+
+nav{
+text-align: right;
+width: 100%;
+font-size: 0;
+/* height:52px; */
+padding:17px  0;
+}
+
+nav a{
+text-decoration: none;
+font-size: 15px;
+color: white;
+margin-left: 20px;
+}
+
+nav a:hover{
+  color: #FF8C32;
+}
+
+/* .clear{
+clear: both;
+} */
+
+.topimg img{
+  width:100%;
+  height:350px;
+}
+
+.path{
+padding:8px 0 8px 12px;
+
+}
+
+
+.path li{
+  display:inline;
+  text-decoration: none;
+}
+
+.path li a:hover{
+color: #FF8C32;
+
+}
+
+.path li a{
+color:grey;
+text-decoration:none;
+border:0
+}
+
+
+ul p{
+  display:inline;
+}
+
+
+.img-mid{
+  width: 960px;
+  display: flex;
+  text-align: center;
+  margin: auto;
+
+}
+
+
+.aboutus{
+text-align: center;
+
+}
+
+
+.paddingbottom{
+
+  padding-bottom: 50px;
+}
+
+.backgroundgrey{
+background-color: #EEEEEE;
+}
+
+.aboutus2{
+width:960px;
+padding-top: 70px;
+margin:auto;
+}
+
+.aboutus{
+  padding-bottom:80px;
+}
+
+.aboutus2 h1{
+  font-size: 2rem;
+  margin-bottom: 0.8em;
+}
+
+.aboutus2 p{
+line-height: 1.2;
+margin-bottom: 1.5em;
+}
+
+.top h1{
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.top p{
+line-height: 1.2;
+}
+
+
+.top img{
+border-radius:50%;
+margin-bottom: 0.2em;
+
+}
+.middle{
+
+margin-left: 20px;
+
+}
+.right{
+margin-left: 20px;
+}
+
+
+.service{
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.itemtitle{
+  text-align: center;
+  width:960px;
+  padding-top: 90px;
+  padding-bottom:60px;
+  margin:auto;
+}
+
+.itemtitle h1{
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.itemtitle p{
+  line-height: 1.2;
+
+}
+
+.items{
+display:flex;
+width:960px;
+text-align:center;
+margin: auto;
+
+}
+
+.items h1{
+margin-top: 0.3em;
+font-size: 2rem;
+margin-bottom: 1.5em;
+}
+
+.bottom{
+margin-top: 4em;
+padding-top: 2em;
+height:2.5em;
+background-color: black;
+text-align: center;
+}
+
+.bottom p{
+  color:white;
+}
